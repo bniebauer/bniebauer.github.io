@@ -1,0 +1,35 @@
+
+#siteTitle {
+    margin-top: 3px;
+    margin-left: 20px;
+    font-size: 18pt;
+    text-align: center;
+    font-style: bold;
+}
+
+#mainNav {
+    text-align: center
+}
+a {
+    margin-left: 10px;
+    margin-right: 10px;    
+}
+
+#bodyWrapper {
+    margin-left: 20%;
+    margin-right: 20%;
+    background-color: cadetblue;
+}
+
+#col1 {
+    
+}
+
+#col2{
+    
+}
+
+footer {
+    text-align: center;
+    background-color: darkkhaki;
+}
