@@ -21,21 +21,15 @@ a {
     background-color: cadetblue;
 }
 
-#col1 {
-    float:left;
-    width: 300px;
-    margin: 10px;
-}
+
 
 #col2{
-    float: left;
+    float: right;
     width: 300px;
     margin: 10px
 }
 
-#pageContinue{
-    clear: left;
-}
+
 
 footer {
     text-align: center;
